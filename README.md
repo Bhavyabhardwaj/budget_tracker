@@ -1,5 +1,5 @@
 
-# Budget Tracker.
+# Budget Tracker
 
 ## Overview
 Budget Tracker is a simple and efficient application designed to help you manage your finances effectively. Follow the steps below to set up and deploy the project.
